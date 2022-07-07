@@ -1,0 +1,162 @@
+.header {
+    min-height: 100vh;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    background-image: url("donation0.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+
+.design {
+    color: rgba(233, 21, 21, 0.904);
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 80px;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgba(10, 29, 202, 0.904);
+}
+
+p {
+    color: rgba(8, 21, 138, 0.904);
+    text-align: center;
+}
+
+
+.button-style {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(228, 11, 11);
+}
+
+.donate {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h2 {
+    font-size: 80px;
+    font-weight: 600;
+}
+
+p {
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+
+}
+
+.row {
+
+    display: flex;
+    justify-content: space-between;
+    text-shadow: 2px;
+
+
+}
+
+.money-amount {
+    margin: 20px;
+    float: left;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(192, 125, 125);
+    width: 500px;
+    background-color: blanchedalmond;
+}
+
+.input {
+    color: rgb(211, 127, 127);
+    padding: 10px 15px;
+    border: 10px;
+    font-size: 20px;
+    text-align: center;
+    border: 10px;
+    font-weight: 700;
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(228, 11, 11);
+}
+
+.donate-plan {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+#line {
+    color: rgb(10, 10, 14);
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
+
+.random {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sectors-1 {
+    flex-basis: 31%;
+    background: rgb(162, 162, 184);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
+.sectors-2 {
+    flex-basis: 31%;
+    background: rgb(235, 138, 206);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
+.sectors-3 {
+    flex-basis: 31%;
+    background: rgb(212, 211, 117);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
+.foot {
+    text-align: center;
+    background-color: black;
+}
+
+#last-part {
+    font-size: 30px;
+    color: rgb(197, 38, 38);
+
+}
+
+#set {
+    font-size: 15px;
+    color: white;
+}
